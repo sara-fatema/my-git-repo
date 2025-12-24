@@ -1,4 +1,4 @@
 app.log
 secretes.json
 
-*log
+*.log
